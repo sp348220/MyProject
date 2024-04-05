@@ -1,0 +1,11 @@
+D:\MvcProject\DomainObject\bin\Debug\net8.0\DomainObject.deps.json
+D:\MvcProject\DomainObject\bin\Debug\net8.0\DomainObject.dll
+D:\MvcProject\DomainObject\bin\Debug\net8.0\DomainObject.pdb
+D:\MvcProject\DomainObject\obj\Debug\net8.0\DomainObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\MvcProject\DomainObject\obj\Debug\net8.0\DomainObject.AssemblyInfoInputs.cache
+D:\MvcProject\DomainObject\obj\Debug\net8.0\DomainObject.AssemblyInfo.cs
+D:\MvcProject\DomainObject\obj\Debug\net8.0\DomainObject.csproj.CoreCompileInputs.cache
+D:\MvcProject\DomainObject\obj\Debug\net8.0\DomainObject.dll
+D:\MvcProject\DomainObject\obj\Debug\net8.0\refint\DomainObject.dll
+D:\MvcProject\DomainObject\obj\Debug\net8.0\DomainObject.pdb
+D:\MvcProject\DomainObject\obj\Debug\net8.0\ref\DomainObject.dll

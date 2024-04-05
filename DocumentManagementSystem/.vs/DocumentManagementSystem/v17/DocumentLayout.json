@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MvcProject\\DocumentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|d:\\mvcproject\\documentmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|d:\\mvcproject\\documentmanagementsystem\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|solutionrelative:views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|d:\\mvcproject\\documentmanagementsystem\\controllers\\cppcompilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|solutionrelative:controllers\\cppcompilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|d:\\mvcproject\\documentmanagementsystem\\views\\cppcompiler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|solutionrelative:views\\cppcompiler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|d:\\mvcproject\\documentmanagementsystem\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|solutionrelative:controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|d:\\mvcproject\\documentmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|d:\\mvcproject\\documentmanagementsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|d:\\mvcproject\\documentmanagementsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|d:\\mvcproject\\documentmanagementsystem\\views\\employeemaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|solutionrelative:views\\employeemaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1778FAB-85FB-413C-A3E7-CEC18FF2BC2D}|..\\Repository\\Repository.csproj|d:\\mvcproject\\repository\\employee\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|d:\\mvcproject\\documentmanagementsystem\\views\\employeemaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|solutionrelative:views\\employeemaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|d:\\mvcproject\\documentmanagementsystem\\views\\employeemaster\\getdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9B1173F-1A19-4D6B-AD6E-3EA766FC344C}|DocumentManagementSystem.csproj|solutionrelative:views\\employeemaster\\getdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106030CC-3A25-41A8-8988-9C9E598C24E8}|..\\Models\\Models.csproj|d:\\mvcproject\\models\\employee\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1778FAB-85FB-413C-A3E7-CEC18FF2BC2D}|..\\Repository\\Repository.csproj|d:\\mvcproject\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1778FAB-85FB-413C-A3E7-CEC18FF2BC2D}|..\\Repository\\Repository.csproj|d:\\mvcproject\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106030CC-3A25-41A8-8988-9C9E598C24E8}|..\\Models\\Models.csproj|d:\\mvcproject\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92DE211-3349-4168-AD41-D87278DF6121}|..\\DomainObject\\DomainObject.csproj|d:\\mvcproject\\domainobject\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92DE211-3349-4168-AD41-D87278DF6121}|..\\DomainObject\\DomainObject.csproj|d:\\mvcproject\\domainobject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MvcProject\\DocumentManagementSystem\\Views\\EmployeeMaster\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmployeeMaster\\Create.cshtml",
+              "ToolTip": "D:\\MvcProject\\DocumentManagementSystem\\Views\\EmployeeMaster\\Create.cshtml",
+              "RelativeToolTip": "Views\\EmployeeMaster\\Create.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T18:12:18.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "getdetails.cshtml",
+              "DocumentMoniker": "D:\\MvcProject\\DocumentManagementSystem\\Views\\EmployeeMaster\\getdetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmployeeMaster\\getdetails.cshtml",
+              "ToolTip": "D:\\MvcProject\\DocumentManagementSystem\\Views\\EmployeeMaster\\getdetails.cshtml",
+              "RelativeToolTip": "Views\\EmployeeMaster\\getdetails.cshtml",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAowHkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T14:19:49.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeMasterController.cs",
+              "DocumentMoniker": "D:\\MvcProject\\DocumentManagementSystem\\Controllers\\EmployeeMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeMasterController.cs",
+              "ToolTip": "D:\\MvcProject\\DocumentManagementSystem\\Controllers\\EmployeeMasterController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeMasterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:14:54.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MvcProject\\DocumentManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MvcProject\\DocumentManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:35:56.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "D:\\MvcProject\\DocumentManagementSystem\\Views\\Home\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index1.cshtml",
+              "ToolTip": "D:\\MvcProject\\DocumentManagementSystem\\Views\\Home\\Index1.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T18:43:12.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CppCompilerController.cs",
+              "DocumentMoniker": "D:\\MvcProject\\DocumentManagementSystem\\Controllers\\CppCompilerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CppCompilerController.cs",
+              "ToolTip": "D:\\MvcProject\\DocumentManagementSystem\\Controllers\\CppCompilerController.cs",
+              "RelativeToolTip": "Controllers\\CppCompilerController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:07:23.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\MvcProject\\DocumentManagementSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\MvcProject\\DocumentManagementSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T18:48:24.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MvcProject\\DocumentManagementSystem\\Views\\CppCompiler\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CppCompiler\\Index.cshtml",
+              "ToolTip": "D:\\MvcProject\\DocumentManagementSystem\\Views\\CppCompiler\\Index.cshtml",
+              "RelativeToolTip": "Views\\CppCompiler\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T18:56:07.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\MvcProject\\DocumentManagementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\MvcProject\\DocumentManagementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T18:48:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MvcProject\\DocumentManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MvcProject\\DocumentManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T18:49:00.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MvcProject\\DocumentManagementSystem\\Views\\EmployeeMaster\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmployeeMaster\\Edit.cshtml",
+              "ToolTip": "D:\\MvcProject\\DocumentManagementSystem\\Views\\EmployeeMaster\\Edit.cshtml",
+              "RelativeToolTip": "Views\\EmployeeMaster\\Edit.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T18:15:04.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\MvcProject\\Repository\\Employee\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Employee\\EmployeeRepository.cs",
+              "ToolTip": "D:\\MvcProject\\Repository\\Employee\\EmployeeRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Employee\\EmployeeRepository.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:00:18.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "D:\\MvcProject\\Models\\Employee\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Employee\\EmployeeModel.cs",
+              "ToolTip": "D:\\MvcProject\\Models\\Employee\\EmployeeModel.cs",
+              "RelativeToolTip": "..\\Models\\Employee\\EmployeeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:58:02.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository",
+              "DocumentMoniker": "D:\\MvcProject\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "..\\Repository\\Repository.csproj",
+              "ToolTip": "D:\\MvcProject\\Repository\\Repository.csproj",
+              "RelativeToolTip": "..\\Repository\\Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T14:01:27.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MvcProject\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Class1.cs",
+              "ToolTip": "D:\\MvcProject\\Repository\\Class1.cs",
+              "RelativeToolTip": "..\\Repository\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:59:33.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MvcProject\\Models\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Class1.cs",
+              "ToolTip": "D:\\MvcProject\\Models\\Class1.cs",
+              "RelativeToolTip": "..\\Models\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:57:29.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\MvcProject\\DomainObject\\Employee\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\DomainObject\\Employee\\EmployeeDto.cs",
+              "ToolTip": "D:\\MvcProject\\DomainObject\\Employee\\EmployeeDto.cs",
+              "RelativeToolTip": "..\\DomainObject\\Employee\\EmployeeDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:54:43.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MvcProject\\DomainObject\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DomainObject\\Class1.cs",
+              "ToolTip": "D:\\MvcProject\\DomainObject\\Class1.cs",
+              "RelativeToolTip": "..\\DomainObject\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:50:48.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

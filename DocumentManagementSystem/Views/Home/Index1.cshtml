@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = " C++ Compiler";
+}
+
+
+
+<form id="compilerForm">
+    <div class="form-group">
+        <label for="code">Enter C++ code:</label>
+        <textarea class="form-control" id="code" rows="10"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Compile & Run</button>
+</form>
+
+<div id="output" style="margin-top: 20px;"></div>
+
+@section Scripts {
+    <script>
+        $('#compilerForm').submit(function (e) {
+            e.preventDefault();
+
+            var code = $('#code').val();
+
+            $.ajax({
+                url: '@Url.Action("CompileAndRun", "Home")',
+                type: 'POST',
+                data: { code: code },
+                success: function (data) {
+                    $('#output').text(data);
+                },
+                error: function (xhr, status, error) {
+                    $('#output').text('Error: ' + xhr.responseText);
+                }
+            });
+        });
+    </script>
+}

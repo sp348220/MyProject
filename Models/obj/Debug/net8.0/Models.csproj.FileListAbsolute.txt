@@ -1,0 +1,11 @@
+D:\MvcProject\Models\bin\Debug\net8.0\Models.deps.json
+D:\MvcProject\Models\bin\Debug\net8.0\Models.dll
+D:\MvcProject\Models\bin\Debug\net8.0\Models.pdb
+D:\MvcProject\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\MvcProject\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+D:\MvcProject\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+D:\MvcProject\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\MvcProject\Models\obj\Debug\net8.0\Models.dll
+D:\MvcProject\Models\obj\Debug\net8.0\refint\Models.dll
+D:\MvcProject\Models\obj\Debug\net8.0\Models.pdb
+D:\MvcProject\Models\obj\Debug\net8.0\ref\Models.dll

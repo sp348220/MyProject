@@ -1,0 +1,15 @@
+D:\MvcProject\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\MvcProject\Repository\bin\Debug\net8.0\Repository.dll
+D:\MvcProject\Repository\bin\Debug\net8.0\Repository.pdb
+D:\MvcProject\Repository\bin\Debug\net8.0\DomainObject.dll
+D:\MvcProject\Repository\bin\Debug\net8.0\DomainObject.pdb
+D:\MvcProject\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\MvcProject\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\MvcProject\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\MvcProject\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\MvcProject\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\MvcProject\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\MvcProject\Repository\obj\Debug\net8.0\Repository.dll
+D:\MvcProject\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\MvcProject\Repository\obj\Debug\net8.0\Repository.pdb
+D:\MvcProject\Repository\obj\Debug\net8.0\ref\Repository.dll
